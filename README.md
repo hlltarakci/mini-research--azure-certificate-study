@@ -1,9 +1,7 @@
 [under construction]
 # Mini Research: Azure Certificate Study
 
-Maybe a natural talent, maybe because of having an academic background or maybe because of both, i honestly think i am good at unlocking something new. Maybe i just don't give up until something makes sense to me, so the whole thing might be out of stubbornness :) By the way, i am not someone who can tell good things about herself, actually i am just the opposite.. I can tell this praise about myself, because this is my strongest side, this is who i am since i was little..
-
-So, long story short, i already publicly share resources i like for bookmarking purposes, like notes to myself. But actually those shares are just part of a mini-research, i have questions in my mind and just try to find answers. I want to present that mini-researches by providing context. 
+I already publicly share resources i like for bookmarking purposes, like notes to myself. But actually those shares are just part of a mini-research, i have questions in my mind and just try to find answers. I want to present that mini-researches by providing context. 
 
 I have been experiencing Azure about over a year and a half now. I architected and used it in two products already and third is on its way. The first one was born on Azure, others are migrations from Predix cloud and on-prem chronolically speaking. All three are in different tech stacks. First one is MERN (MongoDB, ExpressJS, ReactJS and NodeJS), the second one is Javascript, Polymer, Postgres and third one is Microsoft's tech stack (C++, C#, Powershell scripts). My short-term goal is to take [two Azure architect exams (300 and 301)](https://www.microsoft.com/en-us/learning/azure-solutions-architect.aspx) and close my tech gap during this preparation journey.
 
