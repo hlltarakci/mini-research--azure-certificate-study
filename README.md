@@ -14,7 +14,7 @@ Once Azure fundamentals are covered, next step might be [Managing Resources in A
 Since i am already an architect and have a passion designing systems, i especially liked [Architect great solutions in Azure path](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/). 
 .....
 
-Security is important an there is a [learning path](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/) with duration about 6 hours.. 
+Security is important an there is a learning path named as[Secure your cloud data](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/) with duration about 6 hours.. 
 
 
 ...
