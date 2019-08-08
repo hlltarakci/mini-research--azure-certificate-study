@@ -21,6 +21,9 @@ Security is important an there is a learning path named as[Secure your cloud dat
 
 I learned Azure with two external motivations: get a certificate, do my job well.. Of course i have the inner motivation too. But since i also involved in something because of my job, there might be some irrelevant things here.. I tried to eliminate them, but still i find it useful to state that..
 
+...
+[How to secure IaaS](https://docs.microsoft.com/en-us/azure/security/fundamentals/iaas)
+
 
 
 
